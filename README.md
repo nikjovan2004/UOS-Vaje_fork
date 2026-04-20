@@ -9,6 +9,7 @@ Repozitorij vsebuje vaje za predmet **Upravljanje sodobnih oblačnih storitev** 
 | `lab01` | Cloudflare Pages – statično gostovanje (upload + Git deploy) |
 | `lab02` | Cloudflare Worker – API posrednik |
 | `lab03` | Supabase – Osnovna aplikacija |
+| `lab04` | Osnovni deploy statične ali JavaScript aplikacije na Vercel |
 
 
 ## Opombe
